@@ -37,12 +37,11 @@
                     </context:SideActionBarCell.Content>
                     <context:SideActionBarCell.ContextTemplate>
                         <DataTemplate>
-                            <StackLayout Spacing="0"
+                                <StackLayout Spacing="0"
                                          Margin="0, 5"
                                          HorizontalOptions="Fill"
                                          Orientation="Horizontal">
-
-                                <Button WidthRequest="80"
+                                    <Button WidthRequest="80"
                                         BackgroundColor="Red"
                                         TextColor="Black"
                                         Text="Red"

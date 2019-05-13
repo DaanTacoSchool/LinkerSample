@@ -26,7 +26,6 @@ namespace LinkerSample
 
            // Device.BeginInvokeOnMainThread(() => GetParent<SideActionBarCell>(button, button.Parent).ForceClose());
         }
-
         private void OnOpenClicked(object sender, EventArgs e)
         {
             var button = sender as Button;
